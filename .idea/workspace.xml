@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19529a2e-c1c4-4a3b-8416-171df0354afb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/testmost" afterDir="false" />
-    </list>
+    <list default="true" id="19529a2e-c1c4-4a3b-8416-171df0354afb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -38,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/testmost">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -125,12 +123,12 @@
       <workItem from="1524799994811" duration="1416000" />
       <workItem from="1524802571788" duration="653000" />
       <workItem from="1524803422752" duration="186000" />
-      <workItem from="1524803616387" duration="41000" />
+      <workItem from="1524803616387" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237000" />
+    <option name="totallyTimeSpent" value="530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -211,7 +209,7 @@
     <entry file="file://$PROJECT_DIR$/testmost">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
